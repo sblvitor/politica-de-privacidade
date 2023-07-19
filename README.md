@@ -20,7 +20,7 @@ Em alguns casos, coletamos informações do seu dispositivo. Essas informações
 Valorizamos a sua confiança ao nos fornecer suas Informações Pessoais, por isso nos esforçamos para utilizar meios comercialmente aceitáveis para protegê-las. No entanto, lembre-se de que nenhum método de transmissão pela internet ou de armazenamento eletrônico é 100% seguro e confiável, e não podemos garantir sua segurança absoluta.
 
 ### Privacidade de menores
-Este serviço não se destina a pessoas com menos de 10 anos. Não coletamos intencionalmente informações pessoais identificáveis de crianças menores de 10 anos. Caso descubramos que uma criança menor de 10 anos nos forneceu informações pessoais, imediatamente as excluiremos de nossos servidores. Se você é pai, mãe ou responsável legal e tem conhecimento de que seu filho nos forneceu informações pessoais, entre em contato conosco para que possamos tomar as medidas necessárias.
+Este serviço não se destina a pessoas com menos de 13 anos. Não coletamos intencionalmente informações pessoais identificáveis de crianças menores de 13 anos. Caso descubramos que uma criança menor de 13 anos nos forneceu informações pessoais, imediatamente as excluiremos de nossos servidores. Se você é pai, mãe ou responsável legal e tem conhecimento de que seu filho nos forneceu informações pessoais, entre em contato conosco para que possamos tomar as medidas necessárias.
 
 ### Alterações nessa Politica de Privacidade
 Podemos atualizar nossa Política de Privacidade de tempos em tempos. Portanto, recomendamos que você revise esta página periodicamente para verificar quaisquer alterações. Notificaremos você sobre quaisquer alterações, publicando a nova Política de Privacidade nesta página. Essas alterações entrarão em vigor imediatamente após serem publicadas nesta página.
@@ -50,7 +50,7 @@ We collect information from your device in some cases. The information will be u
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
 ### Children’s Privacy  
-This Services do not address anyone under the age of 10. We do not knowingly collect personal identifiable information from children under 10. In the case we discover that a child under 10 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
 
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
